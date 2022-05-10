@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/img/grama-artificial_1249-114.jpg);
+}
+canvas{
+    box-shadow: rgba(0, 0, 0, 0.952) 3px 3px 20px;
+}
+
+h1 {
+    background-color: aliceblue;
+    color: rgb(12, 11, 11);
+}
